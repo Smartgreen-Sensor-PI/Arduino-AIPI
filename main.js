@@ -22,7 +22,7 @@ const serial = async (
             host: 'localhost',
             user: 'user_insert',
             password: 'Senha@123',
-            database: 'smartgreen',
+            database: 'Smartgreen',
             port: 3307
         }
     ).promise();
